@@ -33,10 +33,11 @@ Nghiên cứu đo lường dựa trên các nhóm biến chính:
 *   **Nhóm bị e ngại (Tự nhiên hoang dã - Nature, Đất nông nghiệp đô thị - Agriculture):** Bị liên tưởng mạnh mẽ với các phi dịch vụ tiêu cực như mất vệ sinh Dirty (0.51), mất an ninh Unsafe (0.51) và nguy hiểm Danger (0.53).
 *   *Kết luận:* Người dân TP.HCM chuộng một không gian xanh "được quản lý, cắt tỉa gọn gàng, an ninh sáng sủa" hơn là một hệ sinh thái để hoang dã tự nhiên.
 
-### C. Phân loại 3 nhóm cư dân đặc trưng (HCA)
-1.  **Nhóm "Hài hòa & Thụ hưởng" (Cụm 2):** Đánh giá cao ESS, ít lo ngại DES. Thể hiện tỷ lệ sẵn lòng quyên góp bảo tồn cao nhất.
-2.  **Nhóm "Thực dụng & Lo ngại" (Cụm 1):** Đề cao chức năng điều hoà khí hậu nhưng rất khắt khe và lo ngại về an ninh, vệ sinh kém (DES).
-3.  **Nhóm "Thờ ơ" (Cụm 3):** Nhận thức thấp cả về lợi ích lẫn tác hại, tần suất đi công viên rất thấp.
+### C. Phân loại 3 nhóm cư dân đặc trưng (HCA) và Quyết định tài chính (Kiểm định Giả thuyết H4)
+1.  **Nhóm "Hài hòa & Thụ hưởng" (Cụm 3 - 65% mẫu):** Đánh giá rất cao lợi ích sinh thái (ESS), ít lo ngại tác hại (DES). Đây là nhóm tiềm năng nhất, với **98%** sẵn sàng quyên góp (Donation) và **78%** sẵn sàng mua nhà (Decision) gần UGS.
+2.  **Nhóm "Thực dụng & Lo ngại" (Cụm 1 - 15% mẫu):** Đề cao chức năng điều hoà khí hậu nhưng cực kỳ khắt khe và lo ngại về an ninh, vệ sinh kém. Mức độ sẵn lòng quyên góp là **79%**, và mua nhà là **43%**.
+3.  **Nhóm "Thờ ơ" (Cụm 2 - 20% mẫu):** Nhận thức thấp về cả lợi ích lẫn tác hại, tần suất đi công viên rất thấp. Mức độ sẵn lòng chi trả thấp nhất (Donation đạt **64%**, Decision đạt **48%**).
+*Kết luận H4:* Phân tích Chi-square (p < 0.0001) xác nhận chắc chắn rằng các nhóm nhận thức khác nhau có hành vi chi trả tài chính hoàn toàn khác biệt. Cụm 3 là động lực chính của kinh tế xanh đô thị.
 
 ### D. Động lực tài chính đằng sau quyết định quyên góp (Donation)
 *   **Xử lý mất cân bằng dữ liệu bằng Firth's Penalized Likelihood:** Có tới 271/307 người khảo sát sẵn sàng quyên góp (88%), gây ra lỗi "Phân tách hoàn hảo" (Perfect Separation) trong hồi quy MLE chuẩn. Mô hình đã được tối ưu hóa lại bằng thuật toán Firth Logistic để triệt tiêu chệch và đưa ra các tỷ số chênh (Odds Ratio) chuẩn mực, tin cậy.
