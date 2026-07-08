@@ -1,0 +1,78 @@
+QUY TRÌNH PHÂN TÍCH DỮ LIỆU NGHIÊN CỨU 
+I. MỤC TIÊU CHUNG & CÂU HỎI NGHIÊN CỨU
+Mục tiêu chung: Đánh giá nhận thức của người dân về giá trị của các Không gian xanh đô thị (UGS) và các Dịch vụ/Phi dịch vụ hệ sinh thái (RES, CES, DES), qua đó xác định các yếu tố (nhân khẩu học, thói quen và nhận thức) tác động đến các quyết định tài chính của họ (sự sẵn sàng quyên góp bảo tồn công viên và quyết định mua bất động sản gần không gian xanh).
+Các câu hỏi nghiên cứu (Research Questions):
+Không gian xanh nào cung cấp dịch vụ/phi dịch vụ hệ sinh thái nào?
+Nhận thức của người dân về các ESS có tính hệ thống không?
+Có thể phân chia người dân thành các cụm nhận thức như thế nào? Sự khác biệt về nhận thức giữa các nhóm nhân khẩu học và thói quen ra sao?
+Những yếu tố nào tác động đến quyết định đóng góp tài chính (Donation) và quyết định mua bất động sản (Decision)?
+II. THÔNG TIN QUAN TRỌNG VỀ DỮ LIỆU & CỠ MẪU
+N = 307
+Income (N = 200) ⇒ Cỡ mẫu 200 với những bước có Income
+III. QUY TRÌNH THỰC HIỆN CHI TIẾT CÁC BƯỚC
+Bước 0: Thống kê mô tả (Descriptive Statistics)
+Mục tiêu: Phác họa bức tranh tổng thể về nhân khẩu học của mẫu khảo sát và thói quen tương tác với Không gian xanh đô thị (UGS).
+Các biến sử dụng:
+Nhân khẩu học: Giới tính (Gender), Thu nhập (Income), Học vấn (Literacy), Nghề nghiệp (Career).
+Thói quen tương tác: Khoảng cách đến UGS (Distance), Tần suất đi (Frequency), Thời gian lưu lại (Time), Phương tiện di chuyển (Transportation).
+Hoạt động thường làm: Jogging, Workout, Pet Walking, Sightseeing, Talking, Photography.
+Thuật toán / Phép thử: Frequencies (Tần số, Tỷ lệ phần trăm) và Descriptives (Mean, Standard Deviation cho các thang đo Likert).
+Nhóm sẽ kiểm tra Biến Tuổi (Age) đã phân phối chuẩn chưa [Giữ/Loại]
+Cỡ mẫu: N = 307
+Kết quả mong muốn:
+Biểu đồ tròn/cột mô tả cơ cấu nhân khẩu học.
+Bảng tóm tắt thói quen tương tác của người dân (tần suất, khoảng cách, phương tiện, hoạt động phổ biến).
+Bước 1: Liên kết loại hình và dịch vụ (CA - Correspondence Analysis)
+Câu hỏi nghiên cứu: Không gian xanh nào cung cấp dịch vụ hệ sinh thái nào?
+Thuật toán: Phân tích tương ứng (Correspondence Analysis - CA).
+Các biến đưa vào mô hình:
+Tập X (UGS): 7 loại hình không gian xanh gồm Park, Residential, Garden, Rooftop, Recreation, Agriculture, Nature.
+Tập Y (ESS/DES): Các nhóm dịch vụ/phi dịch vụ hệ sinh thái trung bình gồm MEAN RES, MEAN CES, MEAN DES.
+Cỡ mẫu áp dụng: N = 307.
+Kết quả mong muốn:
+Biểu đồ Biplot 2D biểu diễn mối quan hệ không gian giữa UGS (tập X) và dịch vụ (tập Y).
+Chỉ số tương quan: Trích xuất chỉ số để đánh giá chính xác mức độ liên kết, xác định loại hình UGS nào cung cấp dịch vụ gì.
+Bước 2: Kiểm tra cấu trúc nhận thức (PCA)
+Câu hỏi nghiên cứu: Nhận thức về các ESS có tính hệ thống không?
+Thuật toán: Phân tích thành phần chính (Principal Component Analysis - PCA) để kiểm tra mức độ kết tụ của các biến.
+Các biến đưa vào mô hình:
+RES (Dịch vụ điều hòa): Temperature, Noise, Stormwind, Respiratory.
+CES (Dịch vụ văn hóa): Exercises, Culture, Beauty, Education, Society, Spirit.
+DES (Phi dịch vụ): Dirty, Unsafe, Danger.
+Cỡ mẫu áp dụng: N = 307.
+Kết quả mong muốn:
+Hệ số KMO & Bartlett's Test đạt chuẩn (KMO > 0.6, p < 0.05).
+Ma trận xoay nhân tố (Rotated Component Matrix) để xem các biến nhận thức có nhóm lại một cách có hệ thống theo các nhân tố lớn hay không.
+Bước 3: Phân cụm nhận thức theo đặc điểm (HCA & ANOVA)
+Câu hỏi nghiên cứu: Các nhóm cư dân với đặc điểm nhân khẩu học và thói quen khác nhau có nhận thức về UGS & ESS khác nhau thế nào?
+Thuật toán: Phân tích cụm phân cấp (Hierarchical Cluster Analysis - HCA) dựa trên Factor Scores rút ra từ bước PCA. Sau đó dùng kiểm định ANOVA để đánh giá sự khác biệt.
+Quy trình thực hiện:
+Giai đoạn 3.1 - Gom cụm (HCA): Dùng phương pháp Ward và khoảng cách Squared Euclidean trên các biến nhận thức trung bình (MEAN RES, MEAN CES, MEAN DES) thành các cụm.
+Giai đoạn 3.2 - Dựng chân dung cụm (Profiling): Thực hiện so sánh chéo bằng ANOVA/Chi-square:
+Lần so sánh 1 (với Nhân khẩu học): So sánh các cụm nhận thức với các đặc điểm Giới tính, Nghề nghiệp, Trình độ học vấn.
+Lần so sánh 2 (với Thói quen tương tác): So sánh các cụm nhận thức với Khoảng cách, Tần suất đi, Thời gian lưu lại, Phương tiện di chuyển.
+Cỡ mẫu áp dụng: N = 307.
+Kết quả mong muốn: Xác định đặc điểm nổi bật của từng cụm nhận thức (Ví dụ: Cụm nhận thức cao chủ yếu có thói quen đi bộ, trình độ học vấn cao...).
+Bước 4: Hồi quy Logistic cho Donation và Decision
+4.1. Mô hình quyết định quyên góp (Donation)
+Thuật toán: Hồi quy Logistic (Binary Logistic Regression)
+Biến phụ thuộc (Y): Donation.
+Biến độc lập (X):
+Income, MEAN RES, MEAN CES, MEAN DES
+Factors:
+Nhóm nhân khẩu học: Giới tính, Nghề nghiệp, Trình độ học vấn.
+Nhóm thói quen: Tần suất, Khoảng cách, Thời gian, Phương tiện di chuyển.
+7 biến loại hình UGS.
+Cỡ mẫu áp dụng: N = 200 
+Kết quả mong muốn: Hệ số hồi quy Beta, Odds Ratio (EXP(B)) và trị số P-value để xác định nhân tố nào thực sự thúc đẩy/cản trở ý định đóng góp tiền cho công viên của cư dân.
+4.2. Mô hình quyết định mua nhà (Decision)
+Thuật toán: Hồi quy Logistic nhị phân (Binary Logistic Regression)
+Biến phụ thuộc (Y): Decision.
+Biến độc lập (X):
+Income, MEAN RES, MEAN CES, MEAN DES
+Factors:
+Nhóm nhân khẩu học: Giới tính, Nghề nghiệp, Trình độ học vấn.
+Nhóm thói quen: Tần suất, Khoảng cách, Thời gian, Phương tiện di chuyển.
+7 biến loại hình UGS.
+Cỡ mẫu áp dụng: N = 200 
+Kết quả mong muốn: Xác định những yếu tố về loại hình không gian xanh, đặc tính nhân khẩu và thói quen di chuyển nào tác động mạnh mẽ nhất đến quyết định chi trả cao hơn để mua bất động sản gần UGS.

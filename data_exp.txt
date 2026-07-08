@@ -1,0 +1,153 @@
+QUESTIONNAIRE EXPLANATION FOR INTERVIEWING IN VIETNAM AND THAILAND (Consistency in data for analysis)
+VARIABLE 
+EXPLANATION 
+Index
+Ordinal number
+Nat
+Nation (TH/VN)
+Code
+Identified code within each country
+Lang
+Original Interview Language 
+Green space importance (5 points scale)
+Park
+Urban Public Park
+Street
+Street tree
+Residential
+Landscape around buildings/ Tree in residential area
+Garden
+Private garden at each household
+Rooftop
+Vegetation on building roof as a type of Green Infrastructure
+Recreation
+Tree in designated recreation sites (Zoo, amusement park)
+Nature 
+Wild vegetation (Wetland along riverbank, overgrowth plants, grassland)
+Market
+Market sells ornamental plant/ decorative plant (Thailand only)
+Visiting Information 
+Distance
+Travel distance to visit the nearest public park
+Frequency
+Frequency of visiting public park for outdoor activities
+Transportation
+Frequent means of transportation to travel to park
+Activities at Public Park
+Jogging
+Jogging, running, aerobics, tai chi
+Workout
+Doing exercises with tools/ machines
+Petwalking
+Walking with pets
+Sightseeing
+Sightseeing and talking rest without purpose
+Talking 
+Hanging out and talking with friends
+Makefriend
+Meeting new friends 
+Photography
+Taking photo and enjoying sceneries
+Merit
+Do merit-making activities such as collecting trash, releasing fish.
+Time consumption
+Time
+Time spent each time
+Services of Urban Green Space (5 points scale)
+Food 
+Provides foods (fruits, vegetation, honey)
+Wood 
+Provides wood
+Herb 
+Provides herbs for traditional treatments
+Temperature
+Helps to reduce temperature 
+Airpollution
+Reduces air pollutants (PM2.5, dust, smog)
+Noise
+Reduces noise from traffics and city life
+CO2
+Absorbs carbon dioxide (CO2)
+Flood
+Reduces urban flooding 
+Groundwater
+Reduces urban land erosion and improve ground water
+Stormwind
+Reduces wind speed during heavy rain and storm
+Respiratory
+Assists to reduce respiratory diseases (cough, allergic rhinitis, pneumonia)
+Exercises
+A place for outdoor activities to improve health (walking, exercises)
+Culture
+A place to keep and remains cultural values (historical sites, constructions, statues)
+Beauty
+Make a city more beautiful
+Education
+Be a good place to introduce children to nature
+Society
+Be a place for social activities 
+Spirit
+Be a place to release stress, and city life pressures
+Habitat
+Be a place for wildlife (Birds, squirrel, small animals, insects)
+Biodiversity
+Be a place for conserving different tree species 
+SocialMedia
+Be a place for social media???
+Disservices of Urban Green Space (5 points scale)
+Dirty
+Be not clean (litter, bad management)
+Crowded
+Be often too crowded 
+LackEquipments
+Be not enough exercise machines
+Noisy
+Be annoyed by wild animals 
+Vendors
+Be too many street vendors
+Unsafe
+Be unsafe due to social crimes (theft, pickpocket, robber)
+Damage
+Tree root, branches could damage constructions
+Danger
+Be dangerous due to tree falling, bee sting could 
+Dense
+Be too dense with building constructions around
+Challenges of Urban Green Space
+Grownitself
+No, it can grows itself 
+Management
+No, it always under management 
+Urban_Pollution
+Yes, It is damaged urbanization and pollution
+Climatechange
+Yes, it is damaged by climate change (high temperature, frequent storm)
+Urban_CC
+Yes, it is damaged by urbanization and climate change
+Solution for Urban Green Space
+Decrease
+Decrease area for residential areas
+Remain
+Maintain the current urban green spaces
+Increase
+Increase the current area by finding land fund for new green spaces
+Optimize
+Optimize the current area by maintaining current area and increase green infrastructures (green roof, green wall, urban agriculture)
+Influence in decision making
+Donation
+Willing to pay for USG usage 
+DonationReason
+Reason why the respondents do not donate
+Decision
+Decision affected by urban green space existence when buying a new real estate 
+Respondent information 
+Gender
+Sexuality (Male/Female/Others)
+Age
+Age range 
+Literacy
+Educational levels 
+Career
+Professional career
+Income
+Income range 

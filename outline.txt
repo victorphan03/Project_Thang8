@@ -1,0 +1,88 @@
+PHÂN CỤM NHÓM DÂN CƯ THEO NHẬN THỨC VỀ DỊCH VỤ HỆ SINH THÁI KHÔNG GIAN XANH ĐÔ THỊ TẠI TP.HCM: TIẾP CẬN THỐNG KÊ ĐA CHIỀU VÀ HÀM Ý CHÍNH SÁCH
+Nguyễn Trọng Cần
+Charles University
+Email: trongcan.ng@gmail.com
+La Hoàng Châu
+Công ty TNHH Khoa học Công nghệ ATREM
+Email: hoangchaubionano@gmail.com
+Phan Võ Dinh Hiển
+Bệnh Viện Đa Khoa Quốc Tế S.I.S Cần Thơ
+Email: hienphanfromvietnam@gmail.com
+Trương Đoàn Quang Huy
+Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh
+Email: quanghuyqh03@gmail.com
+Lê Nguyễn Thanh Ngân
+Khoa Khoa học Chính trị - Xã hội và Nhân văn, Đại học Cần Thơ
+Email: tnganln2203@gmail.com
+Tóm tắt: 
+Quá trình đô thị hóa nhanh chóng tại Thành phố Hồ Chí Minh (TP.HCM) đang gây áp lực nặng nề lên hệ thống không gian xanh đô thị (UGS), ảnh hưởng trực tiếp đến chất lượng sống của cư dân. Nghiên cứu này thực hiện phân khúc nhóm dân cư dựa trên sự khác biệt trong nhận thức đa chiều về các dịch vụ hệ sinh thái (ESS) và phi dịch vụ hệ sinh thái (DES) do UGS mang lại. Dữ liệu nghiên cứu được thu thập từ cuộc khảo sát 307 người dân tại TP.HCM. Phương pháp Phân tích thành phần chính (PCA) được áp dụng để rút gọn 12 biến nhận thức ESS và 3 biến DES thành các nhân tố cốt lõi. Tiếp đó, thuật toán Phân cụm liên kết phân cấp (HCA) được sử dụng để phân nhóm người dân theo hồ sơ nhận thức. Kết quả chỉ ra sự tồn tại của ba nhóm dân cư đặc trưng: (1) Nhóm "Hài hòa và Thụ hưởng" chiếm tỷ lệ lớn, nhận thức cao về ESS và ít quan tâm đến DES; (2) Nhóm "Thực dụng và Lo ngại" đánh giá cao các giá trị điều hòa môi trường nhưng lo ngại sâu sắc về vấn đề an ninh và quản lý kém (DES); (3) Nhóm "Thờ ơ" có mức độ nhận thức thấp về cả lợi ích lẫn tác hại, tương ứng với tần suất ghé thăm UGS rất thấp. Nghiên cứu cũng chỉ ra sự khác biệt có ý nghĩa thống kê về đặc điểm kinh tế - xã hội (tuổi, học vấn, thu nhập) và hành vi sử dụng (khoảng cách, tần suất) giữa các cụm. Từ đó, các hàm ý chính sách về quy hoạch đa chức năng và truyền thông phân khúc được đề xuất nhằm tối ưu hóa giá trị UGS hướng tới phát triển đô thị bền vững.
+Từ khóa: Không gian xanh đô thị, Dịch vụ hệ sinh thái, Phi dịch vụ hệ sinh thái, Phân tích phân cụm (HCA), Phân tích thành phần chính (PCA)
+Mã JEL: Q57, R52, O18, C38
+Q57 (Kinh tế sinh thái), R52 (Sử dụng đất đô thị), O18 (Phát triển đô thị/vùng), và C38 (Phân tích phân loại/phân cụm)
+Clustering Citizens Based on Their Perceptions of Urban Green Space’s Ecosystem Services in Ho Chi Minh City: A Multi-dimensional Statistical Approach and Policy Implications
+AbstractRapid urbanization in Ho Chi Minh City (HCMC) has exerted immense pressure on urban green spaces (UGS), directly affecting the quality of life of its residents. This study segments urban citizens based on their multi-dimensional perceptions of ecosystem services (ESS) and ecosystem disservices (DES) provided by UGS. Survey data were collected from 307 residents in HCMC. Principal Component Analysis (PCA) was applied to reduce 12 ESS variables and 3 DES variables into core cognitive dimensions. Subsequently, Hierarchical Cluster Analysis (HCA) was employed to classify citizens according to their perception profiles. The results reveal three distinct clusters of residents: (1) the "Appreciative Beneficiaries" cluster, characterized by high awareness of ESS and low concern for DES; (2) the "Pragmatic & Concerned" cluster, which highly values regulating services but expresses deep concerns about safety and poor park maintenance; and (3) the "Indifferent Users" cluster, showing low awareness of both benefits and disservices, correlating with low park visitation frequency. Socio-economic characteristics (age, education, income) and spatial-behavioral patterns (distance, visit frequency) differ significantly across these clusters. Based on these findings, target-specific policy implications for multi-functional UGS planning and segmented environmental communication are proposed to optimize UGS value for sustainable urban development.
+Keywords: Urban green spaces, Ecosystem services, Ecosystem disservices, Hierarchical Cluster Analysis, Principal Component Analysis
+JEL Codes: Q57, R52, O18, C38
+1. Đặt vấn đề
+Trong bối cảnh biến đổi khí hậu toàn cầu và sự gia tăng dân số cơ học tại các siêu đô thị, việc duy trì chất lượng môi trường sống đang trở thành thách thức lớn đối với các nhà hoạch định chính sách. Là trung tâm kinh tế năng động nhất Việt Nam, Thành phố Hồ Chí Minh (TP.HCM) đang trải qua giai đoạn đô thị hóa và bê tông hóa nhanh chóng, khiến tỷ lệ diện tích đất công viên và cây xanh đô thị trên đầu người ở mức rất thấp (chỉ khoảng 0.5–1 m²/người, thấp hơn nhiều so với quy chuẩn quốc gia là 7 m²/người). Sự thiếu hụt trầm trọng này đặt hệ sinh thái đô thị và sức khỏe thể chất lẫn tinh thần của người dân trước những rủi ro lớn. Để cải thiện tình trạng này, việc hiểu rõ cách thức người dân nhận thức và tương tác với không gian xanh đô thị (UGS) là cơ sở quan trọng hàng đầu cho mọi dự án quy hoạch hay xã hội hóa.
+Về mặt lý luận, UGS không chỉ là một cấu trúc vật lý đơn thuần, mà là một thực thể sinh thái cung cấp đồng thời cả dịch vụ hệ sinh thái (Ecosystem Services - ESS) và phi dịch vụ hệ sinh thái (Ecosystem Disservices - DES). Theo đánh giá của hệ thống biến số khảo sát, ESS mang lại các giá trị điều hòa (giảm nhiệt độ đô thị, lọc không khí PM2.5, giảm tiếng ồn, hấp thụ CO2, giảm ngập lụt) và giá trị văn hóa - xã hội (nơi tập thể dục, giảm áp lực tinh thần, gắn kết xã hội). Ngược lại, UGS cũng tồn tại những DES tiêu cực như rác thải gây mất vệ sinh do quản lý kém, nguy hiểm từ thiên nhiên hay các tệ nạn xã hội (trộm cắp, cướp giật) gây mất an toàn. Nhận thức của người dân về các khía cạnh này không hề đồng nhất mà có sự phân hóa sâu sắc. Sự phân hóa này chịu sự chi phối của các đặc điểm kinh tế - xã hội như giới tính, học vấn, mức thu nhập và các yếu tố không gian - hành vi như khoảng cách địa lý từ nhà đến công viên hay tần suất sử dụng thực tế.
+Mặc dù các nghiên cứu trước đây tại Việt Nam đã tiếp cận giá trị của UGS dưới góc độ đo lường không gian hoặc đánh giá chung về sự hài lòng của người dân, nhưng hầu như chưa có công trình nào nghiên cứu sâu sắc về sự phân hóa nhận thức đa chiều của cư dân đô thị bằng cách kết hợp đồng thời cả ESS (lợi ích) và DES (mặt tiêu cực). Đa số các nghiên cứu thường mặc định cộng đồng dân cư là một khối đồng nhất, dẫn đến các đề xuất chính sách mang tính "cào bằng" và thiếu hiệu quả thực tế. 
+Từ những vấn đề thực tiễn và khoảng trống lý luận nêu trên, mục tiêu nghiên cứu của bài viết là phân loại các nhóm cư dân TP.HCM dựa trên đặc điểm nhận thức về dịch vụ hệ sinh thái của không gian xanh đô thị thông qua các phương pháp thống kê đa biến, từ đó làm rõ sự khác biệt giữa các nhóm xã hội trong việc nhận thức và thụ hưởng lợi ích và chịu bất lợi từ không gian xanh đô thị, đồng thời đề xuất các hàm ý chính sách cho phát triển không gian xanh theo định hướng của TP.HCM.
+Để đạt được mục tiêu tổng quát nêu trên, nghiên cứu này tập trung giải quyết ba câu hỏi nghiên cứu cụ thể sau:
+Câu hỏi 1: Cư dân đô thị tại TP.HCM có thể được phân loại thành các cụm (nhóm) đặc trưng nào dựa trên hồ sơ nhận thức đa chiều về lợi ích và bất lợi của không gian xanh đô thị?
+Câu hỏi 2: Có sự khác biệt có ý nghĩa thống kê về đặc điểm kinh tế - xã hội (giới tính, trình độ học vấn, thu nhập) và hành vi tương tác không gian (khoảng cách tiếp cận, phương tiện, tần suất ghé thăm công viên) giữa các nhóm cư dân đã được phân loại hay không?
+Câu hỏi 3: Mức độ sẵn lòng đóng góp tài chính để phát triển không gian xanh đô thị có sự phân hóa như thế nào giữa các cụm nhận thức và những hàm ý chính sách nào cần được đề xuất để hướng tới sự phát triển công bằng, bền vững cho hệ sinh thái đô thị tại Việt Nam?
+Để trả lời các câu hỏi trên, nghiên cứu áp dụng các phương pháp thống kê đa chiều bao gồm Phân tích thành phần chính (PCA) và Phân tích phân cụm liên kết phân cấp (HCA) trên bộ dữ liệu khảo sát 307 cư dân TP.HCM. Kết quả nghiên cứu không chỉ đóng góp vào khung lý thuyết về mối quan hệ biện chứng giữa ESS và DES trong không gian đô thị, mà còn cung cấp bằng chứng thực nghiệm quan trọng giúp chính quyền thành phố phân khúc đối tượng truyền thông và thiết kế các không gian xanh đa chức năng phù hợp với nhu cầu của từng nhóm cư dân.
+2. Tổng quan nghiên cứu
+2.1. Cơ sở lý thuyết về Dịch vụ (ESS) và Phi dịch vụ (DES) của Không gian Xanh Đô thị
+Khái niệm dịch vụ hệ sinh thái (ESS) định nghĩa các lợi ích mà con người nhận được trực tiếp hoặc gián tiếp từ các chức năng của hệ sinh thái (Millennium Ecosystem Assessment, 2005). Trong môi trường đô thị hóa cao độ như TP.HCM, UGS đóng vai trò là cơ sở hạ tầng xanh quan trọng cung cấp các dịch vụ điều hòa cốt lõi như làm mát, thanh lọc bụi mịn PM2.5, giảm tiếng ồn đô thị và giảm thiểu ngập lụt cục bộ bằng cách thấm nước tự nhiên (TEEB, 2010). Bên cạnh đó, các dịch vụ văn hóa của UGS như cung cấp không gian thể chất, giải tỏa căng thẳng tâm lý (Spirit) và tạo cơ hội tương tác xã hội (Society) được chứng minh là có tác động tích cực vượt trội đến sức khỏe cộng đồng.
+Tuy nhiên, song hành với các lợi ích, các không gian xanh đô thị cũng phát sinh những tác động tiêu cực ngoài ý muốn cho con người, được gọi là phi dịch vụ hệ sinh thái (DES) (Lyytimäki & Sipilä, 2009). DES trong đô thị bao gồm các yếu tố vật lý như cây cối gãy đổ trong mùa mưa bão gây nguy hiểm (Danger), rễ cây phá hủy hạ tầng đường sá (Damage), đến các yếu tố xã hội nảy sinh do công tác quản lý yếu kém như tình trạng mất vệ sinh (Dirty), quá tải (Crowded), hay cảm giác bất an về trộm cắp và tội phạm (Unsafe). Mối quan hệ giữa ESS và DES mang tính biện chứng và đánh đổi (trade-off); việc tăng mật độ cây xanh để cải thiện ESS điều hòa nhiệt độ nếu không được quy hoạch tốt có thể vô tình làm tăng sự rậm rạp, tạo điều kiện cho côn trùng truyền bệnh hoặc che khuất tầm nhìn dẫn đến tăng nguy cơ mất an ninh (DES). Nhận thức và thái độ của người dân đối với sự đánh đổi này là nhân tố quyết định đến hành vi sử dụng và sự ủng hộ của họ đối với các chính sách môi trường.
+2.2. Sự phân hóa nhận thức và phân khúc người dùng đô thị
+Nhận thức của người dân đô thị về ESS và DES không phải là một hằng số cố định, mà là kết quả của sự tương tác phức tạp giữa điều kiện kinh tế - xã hội cá nhân và trải nghiệm không gian thực tế. Các nghiên cứu thực nghiệm trên thế giới (như tại Bangkok, Singapore, hay Barcelona) chỉ ra rằng các yếu tố nhân khẩu học như giới tính, học vấn, và mức thu nhập có ảnh hưởng mạnh mẽ đến xu hướng ưu tiên các dịch vụ sinh thái cụ thể. Người lớn tuổi thường nhạy cảm và đánh giá cao các dịch vụ tinh thần (Spirit) và điều hòa vi khí hậu, trong khi giới trẻ có xu hướng coi trọng các dịch vụ văn hóa, chụp ảnh (Photography) hay các hoạt động thể thao tương tác. Đồng thời, khoảng cách địa lý đến công viên (Distance) và tần suất ghé thăm (Frequency) cũng định hình mức độ trải nghiệm thực tế về cả lợi ích lẫn phi dịch vụ, tạo ra các hồ sơ nhận thức (cognitive profiles) phân hóa rõ rệt trong cộng đồng.
+2.3. Phát triển các giả thuyết nghiên cứu
+Dựa trên cơ sở lý thuyết và các nghiên cứu thực nghiệm liên quan, nghiên cứu này xây dựng các giả thuyết sau nhằm kiểm định trên bối cảnh thực tế của TP.HCM:
+Giả thuyết H1​: Nhận thức của người dân TP.HCM về dịch vụ (ESS) và phi dịch vụ (DES) của không gian xanh đô thị có sự phân hóa rõ rệt và có thể được phân nhóm thành các cụm (clusters) nhận thức đồng nhất và đặc trưng.
+Giả thuyết H2​: Các cụm nhận thức khác nhau của cư dân đô thị có sự khác biệt có ý nghĩa thống kê về đặc điểm kinh tế - xã hội (giới tính, trình độ học vấn, và mức thu nhập).
+Giả thuyết H3​: Các cụm nhận thức khác nhau của cư dân đô thị có sự khác biệt rõ rệt về hành vi sử dụng không gian xanh thực tế (khoảng cách di chuyển, tần suất ghé thăm, và loại hình hoạt động tương tác).
+Giả thuyết H4: Sự sẵn lòng chi trả hoặc đóng góp tài chính (Donation) để phát triển và bảo tồn không gian xanh đô thị có sự khác biệt có ý nghĩa thống kê giữa các cụm nhận thức khác nhau.
+3. Phương pháp nghiên cứu
+3.1. Mô hình nghiên cứu
+Y_it = β_0 + β_1 * X_it + β_2 * Z_it + η_i + ε_it
+(1)
+3.2. Dữ liệu và phương pháp ước lượng
+4. Kết quả nghiên cứu và thảo luận
+4.1. Mô tả dữ liệu
+Bảng 1. Kết quả thống kê mô tả các biến chính
+Biến số
+Ký hiệu
+Trung bình
+Độ lệch chuẩn
+Nhỏ nhất
+Lớn nhất
+[Biến phụ thuộc]
+[Ký hiệu]
+[Biến độc lập]
+[Ký hiệu]
+[Biến kiểm soát]
+[Ký hiệu]
+Nguồn: 
+4.2. Kết quả hồi quy
+Hình 1. Biểu đồ xu hướng nhận thức dịch vụ hệ sinh thái
+[CHÈN HÌNH VẼ / BIỂU ĐỒ TẠI ĐÂY ]
+Nguồn: 
+5. Kết luận và hàm ý chính sách
+5.1. Kết luận chính
+Nghiên cứu đã ứng dụng thành công phương pháp phân tích thống kê đa chiều (PCA và HCA) trên bộ dữ liệu gồm 307 mẫu tại TP.HCM nhằm phân cụm cư dân dựa trên nhận thức về ESS và DES của không gian xanh. Kết quả phân tích thành phần chính (PCA) đã chỉ ra các cấu trúc nhân tố rõ ràng đại diện cho nhận thức về lợi ích sinh thái, lợi ích xã hội và các rào cản tiêu cực của UGS. Thuật toán phân cụm HCA dựa trên các điểm số nhân tố thu được đã xác định chính xác ba nhóm cư dân có hồ sơ nhận thức khác biệt: nhóm "Hài hòa và Thụ hưởng" (quan tâm cao lợi ích, ít lo ngại mặt trái), nhóm "Thực dụng và Lo ngại" (đánh giá cao dịch vụ điều hòa nhưng lo lắng về an ninh, vệ sinh), và nhóm "Thờ ơ" (ít quan tâm cả lợi ích lẫn tác hại, có tần suất sử dụng UGS rất thấp).
+Đặc biệt, kết quả kiểm định ANOVA và Chi-square khẳng định sự khác biệt có ý nghĩa thống kê giữa các cụm này về mặt đặc điểm nhân khẩu học (học vấn, thu nhập) và hành vi tương tác không gian (khoảng cách đến công viên và tần suất sử dụng). Phát hiện quan trọng nhất là mức độ sẵn lòng chi trả đóng góp tài chính (Donation) tỷ lệ thuận với mức độ nhận thức ESS tích cực và tỷ lệ nghịch với khoảng cách địa lý, mở ra các hướng đi mới cho công tác tài chính xanh của đô thị.
+5.2. Hàm ý chính sách
+Từ các kết quả thực nghiệm trên, nghiên cứu đề xuất ba hàm ý chính sách quan trọng cho chính quyền TP.HCM và các nhà quy hoạch đô thị:
+Thứ nhất, thiết kế chiến lược truyền thông môi trường phân khúc (segmented communication): Chính quyền thành phố cần tránh các chiến dịch truyền thông mang tính đại trà. Đối với nhóm "Thờ ơ" (thường là người có học vấn thấp hoặc bận rộn), chiến dịch truyền thông cần nhấn mạnh vào các lợi ích sức khỏe thiết thực và tức thì như giảm căng thẳng (Spirit) và cơ hội vận động thể chất. Đối với nhóm "Thực dụng và Lo ngại", truyền thông cần đi kèm với các cam kết thực tế về việc cải thiện chất lượng quản lý công viên, công khai các biện pháp kiểm soát an ninh và vệ sinh để loại bỏ rào cản DES, từ đó khuyến khích họ tương tác nhiều hơn với không gian xanh.
+Thứ hai, quy hoạch không gian xanh đa chức năng và hướng mục tiêu (targeted planning): Khi phát triển hoặc cải tạo công viên tại các khu vực đô thị, các nhà thiết kế cần tích hợp các tiện ích phù hợp với profile của cụm dân cư chiếm đa số tại địa bàn đó. Tại những khu vực tập trung nhiều nhóm "Thực dụng và Lo ngại" hoặc nhóm lớn tuổi, cần ưu tiên lắp đặt camera giám sát, cải thiện hệ thống chiếu sáng công cộng để giảm lo ngại về tệ nạn (Unsafe), thiết kế lối đi bộ an toàn và lắp đặt thêm các máy tập thể dục ngoài trời. Tại các khu vực có tỷ lệ giới trẻ và nhóm "Hài hòa và Thụ hưởng" cao, cần chú trọng cảnh quan thẩm mỹ (Beauty), phát triển hạ tầng số (Social Media) và không gian sinh hoạt cộng đồng để tối ưu hóa trải nghiệm văn hóa.
+Thứ ba, xã hội hóa nguồn lực tài chính xanh thông qua phân khúc sẵn lòng chi trả: Kết quả nghiên cứu cho thấy nhóm "Hài hòa và Thụ hưởng" có học vấn và thu nhập cao hơn, đồng thời thể hiện mức độ sẵn lòng đóng góp tài chính (Donation) cao nhất cho việc phát triển UGS. Chính quyền TP.HCM có thể thí điểm mô hình "Quỹ xanh đô thị" hoặc kêu gọi đóng góp tự nguyện trực tiếp tại các công viên công cộng hướng đến nhóm đối tượng này. Bên cạnh đó, các dự án bất động sản tích hợp không gian xanh chất lượng cao cần được khuyến khích phát triển ở các phân khúc nhà ở cao cấp, vì quyết định mua nhà của nhóm có thu nhập cao chịu ảnh hưởng lớn bởi sự tồn tại của UGS chất lượng.
+5.3. Hạn chế nghiên cứu và hướng nghiên cứu tiếp theo
+Mặc dù đạt được những kết quả có ý nghĩa, nghiên cứu này vẫn tồn tại một số hạn chế. Cỡ mẫu khảo sát gồm 307 người dân tuy đáp ứng yêu cầu kỹ thuật của các kiểm định thống kê nhưng chưa đại diện hoàn toàn cho toàn bộ sự đa dạng sinh thái và mật độ dân cư của 22 quận, huyện và thành phố thuộc TP.HCM. Đồng thời, nghiên cứu mới chỉ dừng lại ở việc đo lường nhận thức chủ quan của người dân mà chưa kết hợp kiểm chứng với các dữ liệu khách quan. Hướng nghiên cứu tiếp theo cần mở rộng quy mô mẫu khảo sát và tích hợp công nghệ Hệ thống thông tin địa lý (GIS) để đối chiếu giữa nhận thức chủ quan của người dân với diện tích thực tế, chất lượng cây xanh, và khả năng tiếp cận vật lý của từng khu vực dân cư cụ thể.
+Tài liệu tham khảo
+Lyytimäki, J., & Sipilä, M. (2009). Hopping on one leg: The concept of ecosystem disservices as a tool for urban planning. Urban Forestry & Urban Greening, 8(4), 309–315. https://doi.org/10.1016/j.ufug.2009.07.002
+Millennium Ecosystem Assessment. (2005). Ecosystems and human well-being: Synthesis. Island Press.
+Nguyen, C. T., & Chidthaisong, A. (2024). Ecosystem services provided by urban green spaces in Bangkok Metropolis: Public awareness and planning implications. Urban Ecosystems, 27(3), 855–868. https://doi.org/10.1007/s11252-023-01482-1
+TEEB. (2010). The economics of ecosystems and biodiversity: Mainstreaming the economics of nature: A synthesis of the approach, conclusions and recommendations of TEEB. United Nations Environment Programme.

@@ -1,0 +1,255 @@
+1. Các lý thuyết
+1.1. Lý thuyết xây dựng thang đo: Khung lý thuyết Dịch vụ Hệ sinh thái (Ecosystem Services Framework)
+- Khung lý thuyết Dịch vụ Hệ sinh thái (Ecosystem Services Framework) đã được chuẩn hóa rộng rãi thông qua các công trình quy mô toàn cầu như Millennium Ecosystem Assessment (MEA, 2005) và TEEB (The Economics of Ecosystems and Biodiversity).
++ Theo đó, dịch vụ hệ sinh thái đại diện cho tất cả các lợi ích trực tiếp và gián tiếp mà con người nhận được từ thiên nhiên nhằm duy trì và nâng cao chất lượng cuộc sống.
++ Trong bối cảnh đô thị hóa nhanh chóng, hệ sinh thái không gian xanh đô thị (Urban Green Spaces - UGS) đóng vai trò là một giải pháp dựa vào thiên nhiên (Nature-Based Solutions) vô cùng quan trọng để giảm thiểu các khủng hoảng sinh thái và xã hội.
+- Phân loại MAES (Mapping and Assessment of Ecosystems and their Services) chỉ ra rằng trong không gian đô thị, các dịch vụ điều tiết (Regulating Ecosystem Services - RES) từ UGS là cơ chế trực tiếp và cốt lõi tạo ra các lợi ích sinh lý vật lý giúp cư dân chống chọi với ô nhiễm.
++ Các dịch vụ điều tiết chính trong đô thị bao gồm: làm mát vi khí hậu (hạ nhiệt độ đô thị, giảm thiểu hiệu ứng đảo nhiệt - UHI), lọc sạch không khí (purification of air pollutants và giảm thiểu các tác nhân gây bệnh hô hấp), hấp thụ và lưu trữ khí carbon (carbon sequestration and storage), giảm tiếng ồn giao thông, điều tiết dòng chảy nước bề mặt giảm ngập lụt, và bảo tồn đa dạng sinh học (Aram et al., 2019; Priya & Senthil, 2021; Yarnvudhi et al., 2021).
+- Bên cạnh dịch vụ điều tiết, UGS còn cung cấp dịch vụ văn hóa (Cultural Ecosystem Services - CES) vô cùng đa dạng, đóng vai trò là cầu nối nâng cao chất lượng đời sống tinh thần và thể chất của cư dân đô thị.
++ CES bao gồm các giá trị phi vật chất thiết thực như cung cấp cảnh quan thẩm mỹ, tạo địa điểm thể dục thể thao rèn luyện sức khỏe, là không gian tương tác xã hội gắn kết bạn bè gia đình, đóng vai trò giáo dục thiên nhiên cho trẻ em, mang lại giá trị tinh thần, thư giãn và giảm thiểu căng thẳng, áp lực công việc (Riechers et al., 2016; Cheng et al., 2021).
+- Bên cạnh các lợi ích sinh thái và xã hội tích cực, các không gian xanh đô thị (UGS) còn đồng thời tạo ra các tác động tiêu cực, gây hại hoặc làm giảm chất lượng cuộc sống của cư dân, được định nghĩa trong tài liệu khoa học là Dịch vụ tiêu cực của hệ sinh thái (Ecosystem Disservices - DES) (Von Döhren & Haase, 2015).
++ Sự xuất hiện của DES đặt ra những thách thức lớn đối với quy hoạch đô thị, do chúng có thể làm suy giảm nghiêm trọng giá trị cảm nhận của người dân đối với không gian công cộng (Lyytimäki & Sipilä, 2009).
++ Trong bối cảnh đô thị, DES thường được chia thành hai nhóm chính: nhóm rủi ro sinh học vật lý (như cây đổ mùa mưa bão gây nguy hiểm, dị ứng phấn hoa, hay sự phát triển của côn trùng truyền bệnh) (Escobedo et al., 2011), và nhóm rủi ro quản lý/an ninh xã hội (như công viên mất vệ sinh do rác thải và quản lý kém - Dirty, tệ nạn xã hội gây mất an ninh trật tự - Unsafe, hoặc quá tải đông đúc - Crowded) (Kirkpatrick et al., 2012; Vaz et al., 2017).
++ Nghiên cứu thực nghiệm tại Bangkok của Nguyen & Chidthaisong (2023) chỉ ra rằng nhận thức của cư dân đô thị đối với DES tập trung chủ yếu vào các yếu tố quản lý và tiện nghi (Dirty đạt 4.04/5 điểm và Crowded), trong khi các mối đe dọa sinh học tự nhiên (Danger) không phải là mối bận tâm hàng đầu ảnh hưởng đến quyết định ghé thăm công viên.
+1.2. Lý thuyết giải thích tương quan/xu hướng
+- Hành vi đóng góp tự nguyện (Donation) và Quyết định sẵn lòng trả giá cao hơn cho bất động sản gần công viên (Decision) đại diện cho hai hành vi ứng xử tài chính có cơ chế tác động hoàn toàn khác nhau của cư dân Thành phố Hồ Chí Minh.
+1.2.1. Hành vi quyên góp tự nguyện (Donation)
+- Dựa trên kết quả chạy mô hình Hồi quy Logistic (Logistic Regression) cho tập dữ liệu TP.HCM, các yếu tố tác động đến Donation được phân nhóm như sau:
++ Nhóm thúc đẩy quyết định đóng góp mạnh nhất:
++ Dịch vụ Văn hóa (MEAN CES): Đây là động lực cốt lõi và có sức ảnh hưởng mạnh mẽ nhất. Những người dân đánh giá cao các giá trị văn hóa (như thẩm mỹ, giải trí, sức khỏe tinh thần) có xác suất sẵn lòng đóng góp cao hơn gấp 4.237 lần đối với mỗi đơn vị tăng lên trong điểm đánh giá dịch vụ văn hóa (Odds Ratio = 4.237, p = 0.005).
++ Thời gian lưu lại (Time): Thói quen dành nhiều thời gian thư giãn tại công viên cho mỗi lần ghé thăm có tác động thuận chiều rõ rệt đến tỷ lệ quyên góp với hiệu ứng ngưỡng từ 15 phút trở lên. So với nhóm dưới 15 phút, xác suất sẵn lòng quyên góp tăng mạnh ở tất cả các mốc thời gian lớn hơn: nhóm từ 15-30 phút (Time 2) tăng 20.235 lần (p = 0.039), nhóm từ 30-60 phút (Time 3) tăng 64.995 lần (p = 0.003), nhóm từ 1-2 giờ (Time 4) tăng 50.055 lần (p = 0.005), và nhóm trên 2 giờ (Time 5) tăng 64.345 lần (p = 0.004).
++ Nhóm cản trở quyết định đóng góp mạnh nhất:
++ Tác động tiêu cực (MEAN DES): Sự bức xúc hoặc lo ngại về các rào cản (như tình trạng mất vệ sinh, sự không an toàn hay nguy hiểm) làm sụt giảm mạnh mẽ khả năng đóng góp của người dân (Odds Ratio = 0.425, p = 0.0002).
++ Nhóm yếu tố ít hoặc không có tác động:
++ Dịch vụ điều hòa (MEAN RES): Hoàn toàn không có ý nghĩa thống kê trong việc thôi thúc người dân quyên góp (p = 0.588). Tương tự, nhận thức về UGS chung (MEAN UGS, p = 0.163), Khoảng cách địa lý (Distance) và Tần suất ghé thăm (Frequency) cũng không có ý nghĩa thống kê thúc đẩy Donation.
+LÝ THUYẾT GIẢI THÍCH VÌ SAO CES TÁC ĐỘNG MẠNH ĐẾN QUYẾT ĐỊNH DONATION:
+- Bản chất của không gian xanh đô thị là một "hệ sinh thái thiên hướng văn hóa" (cultural-inclined ecosystem): Tại các khu vực đô thị, mục đích chính của công chúng khi tiếp cận không gian xanh là để dành thời gian cho các hoạt động ngoài trời, giao tiếp xã hội và thư giãn tinh thần, thay vì khai thác các giá trị vật chất hay sản lượng cung cấp. Vì vậy, giá trị văn hóa chính là chức năng cốt lõi nhất và sát sườn nhất với thói quen sinh hoạt của họ (Cheng et al., 2021; Ko & Son, 2018).
+- Chạm đến những nhu cầu trải nghiệm và sức khỏe cá nhân thiết thực nhất: Nhóm dịch vụ văn hóa bao gồm các giá trị hiện hữu như vẻ đẹp thẩm mỹ, cơ hội tập thể dục rèn luyện thể chất, gắn kết xã hội và cải thiện sức khỏe tinh thần. Các nghiên cứu chỉ ra rằng nhận thức của người dân luôn gắn chặt với nhu cầu thực tế của họ. Khi một người hài lòng với dịch vụ văn hóa, điều đó có nghĩa là không gian xanh đang trực tiếp giải quyết những áp lực căng thẳng và thỏa mãn nhu cầu nâng cao chất lượng sống hàng ngày của cá nhân họ. Sự thụ hưởng trực tiếp này tạo ra một sự gắn kết cảm xúc sâu sắc, thôi thúc hành động đóng góp tài chính (Riechers et al., 2016).
+- Hành vi "đóng góp" đòi hỏi sự thụ hưởng trực tiếp thay vì lợi ích vĩ mô: Thông qua mô hình phân tích, chúng ta thấy Dịch vụ Điều hòa (giảm nhiệt, lọc CO2) rất quan trọng để người dân gật đầu "đồng thuận" với chính sách, nhưng lại hoàn toàn không thúc đẩy họ quyên góp. Ngược lại, những người đánh giá cao lợi ích văn hóa và dành nhiều thời gian lưu lại công viên để trực tiếp trải nghiệm các dịch vụ này lại sẵn lòng quyên góp. Điều này minh chứng rằng người dân chỉ thực sự "rút ví" cho những tiện ích mà bản thân họ được trực tiếp tham gia và thụ hưởng (Casado-Arzuaga et al., 2013; Christine & Rehdanz, 2015; Rall et al., 2017).
+- Lợi ích cụ thể, hữu hình lấn át các khái niệm trừu tượng: Dữ liệu phân tích tại TP.HCM cho thấy một nghịch lý là việc nhận thức cao về tầm quan trọng của không gian xanh (UGS) nói chung không thúc đẩy tỷ lệ quyên góp. Phát hiện này cho thấy người dân không đóng góp cho một khái niệm sinh thái hay hạ tầng xanh mang tính trừu tượng. Họ đóng góp vì những giá trị văn hóa, giải trí, sức khỏe hết sức cụ thể và rõ ràng mà hệ sinh thái đó mang lại cho cộng đồng và chính gia đình họ.
+1. Giới thiệu về "Cultural-inclined ecosystem" (Hệ sinh thái thiên về văn hóa)
+- Khái niệm "Cultural-inclined ecosystem" dùng để chỉ những hệ sinh thái (điển hình là không gian xanh đô thị - Urban Green Spaces) nơi mà người dân ưu tiên dành thời gian để tham gia vào các hoạt động ngoài trời và tương tác xã hội, thay vì tập trung khai thác các giá trị cung cấp vật chất như lương thực hay gỗ (Nguyen & Chidthaisong, 2023).
+- Những đặc điểm chính của một hệ sinh thái thiên về văn hóa bao gồm:
++ Trọng tâm là các giá trị phi vật chất và tính trải nghiệm: Bản chất của không gian xanh đô thị là một hệ sinh thái mang tính định hướng văn hóa sâu sắc (Cheng, Van Damme, & Uyttenhove, 2021; Ko & Son, 2018). Công chúng thường trực tiếp chi tiêu thời gian vào các hoạt động ngoài trời, tập luyện thể thao và gắn kết xã hội tại các không gian này.
++ Sự áp đảo của dịch vụ văn hóa (CES) so với dịch vụ cung cấp (PES): Tại các hệ sinh thái này, những lợi ích to lớn thu được từ dịch vụ văn hóa và điều tiết thường lấn át hoặc làm lu mờ hoàn toàn nhận thức của người dân về các dịch vụ cung cấp. Chính vì vậy, phần lớn các đánh giá về dịch vụ hệ sinh thái đô thị thường đặt trọng tâm nghiên cứu vào khía cạnh CES thay vì các giá trị vật chất khác (Riechers, Barkmann, & Tscharntke, 2016).
++ Phản ánh trực tiếp nhu cầu thiết yếu: Mức độ nhận thức cao về các dịch vụ văn hóa tại hệ sinh thái này không chỉ phản ánh lợi ích thực tế thu được, mà còn đại diện cho nhu cầu và mong muốn nội tại rất lớn của cư dân đô thị nhằm nâng cao chất lượng sống (Nguyen & Chidthaisong, 2023).
+2. Ứng dụng giải thích sự thúc đẩy của CES đối với quyết định đóng góp (Donation) tại TP.HCM
+- Không gian xanh TP.HCM là một "Hệ sinh thái thiên về văn hóa" điển hình: Bối cảnh thực tiễn tại TP.HCM cho thấy các công viên (như Tao Đàn, Gia Định, Lê Văn Tám) không chỉ đơn thuần là cảnh quan sinh thái, mà là những trung tâm sinh hoạt văn hóa - xã hội sôi động. Thói quen đặc thù của người dân miền Nam là tụ họp tại công viên để tập thể dục buổi sáng, múa võ, khiêu vũ, hay tham gia các câu lạc bộ chim cảnh. Vì người dân trực tiếp chi tiêu thời gian và trải nghiệm các hoạt động ngoài trời, thể thao, gắn kết xã hội tại đây, UGS tại TP.HCM mang đậm bản chất của một "cultural-inclined ecosystem". Do đó, những lợi ích văn hóa, thẩm mỹ và sức khỏe (CES) trở thành giá trị cốt lõi nhất tác động trực tiếp đến đời sống hàng ngày của họ.
+- Sự chuyển hóa từ "Trải nghiệm gắn kết" thành "Hành vi bảo vệ": Trong một hệ sinh thái thiên về văn hóa, khi người dân trực tiếp thụ hưởng CES, họ hình thành sự gắn kết nơi chốn (place attachment) rất cao. Theo nghiên cứu của Christine và Rehdanz (2015) cũng như Rall và cộng sự (2017), những nhận thức tích cực về giá trị văn hóa này rất dễ dàng dịch chuyển thành các hành vi thực tế hoặc cam kết đóng góp (donation) cho việc bảo tồn và phát triển hạ tầng xanh. Nghĩa là, người dân TP.HCM xem công viên như một "tài sản sức khỏe và tinh thần" của chính mình; khi tài sản này mang lại giá trị lớn, họ sẵn lòng mở hầu bao hoặc góp công sức để duy trì nó.
+- Động lực thúc đẩy từ cơ chế "Cung - Cầu": Nghiên cứu về nhận thức tại Bangkok đã chỉ ra rằng, trong các hệ sinh thái văn hóa, nhận thức cao đối với một dịch vụ cũng đồng thời bộc lộ nhu cầu cấp thiết đối với dịch vụ đó. Nhu cầu và mức độ sẵn sàng đóng góp của người sử dụng tăng tỷ lệ thuận với những lợi ích thiết thực mà họ mong muốn nhận được (Casado-Arzuaga và cộng sự, 2013). Tại TP.HCM, do diện tích cây xanh nội đô còn hạn chế, nhu cầu tận hưởng CES để giải tỏa áp lực cuộc sống càng cao. Do đó, khi các dự án xanh hóa (ESG) nhắm đúng vào việc nâng cấp CES, nó đáp ứng đúng nhu cầu bức thiết của công chúng, từ đó kích hoạt mạnh mẽ sự đồng thuận và quyết định tài trợ của họ.
+Cơ chế cản trở của dịch vụ tiêu cực (DES) đối với quyết định Donation lý giải thông qua: sự xói mòn Lòng tin Thể chế (Institutional Trust) và Thuyết vị tha tương hỗ (Reciprocal Altruism).
++ Quyên góp tự nguyện là một hành động mang tính chất công ích, đòi hỏi người dân tin tưởng rằng nguồn đóng góp của họ sẽ được quản lý và sử dụng hiệu quả để nâng cấp chất lượng công viên.
++ Sự xuất hiện của các disservices về mặt quản lý (như công viên bẩn thỉu - Dirty, mất an ninh - Unsafe) trực tiếp phản ánh năng lực quản lý yếu kém của ban quản lý công viên và chính quyền địa phương (Bertram & Rehdanz, 2015).
++ Sự xói mòn lòng tin thể chế này làm suy giảm động cơ đóng góp của cư dân, do họ lo ngại tiền của mình sẽ bị lãng phí hoặc quản lý không đúng mục đích (Ugolini et al., 2022).
++ Bên cạnh đó, thuyết vị tha tương hỗ chỉ ra rằng con người sẵn lòng đóng góp xã hội hóa khi họ cảm nhận được sự trao đổi công bằng (reciprocity) từ môi trường mang lại.
++ Những bất tiện sinh lý vật lý (Danger - cây đổ, ong đốt) hay phiền toái xã hội (Unsafe) tạo ra cảm giác bất an, làm tổn hại trải nghiệm cá nhân và phá vỡ mối quan hệ tương hỗ này, dẫn đến phản ứng từ từ chối quyên góp tài chính.
+1.2.2. Quyết định sẵn lòng trả cao hơn cho bất động sản (Decision)
+- Tổng quan tỷ lệ chung: 
+Trong tổng số 307 mẫu quan sát tại TP.HCM, có 204 người đồng ý trả giá cao hơn (Decision = 1), chiếm tỷ lệ áp đảo 66.45%, và 103 người không đồng ý (Decision = 0), chiếm tỷ lệ 33.55%.
+- Phân tích mối liên hệ cơ bản (Kiểm định Chi-squared):
++ Với phân khúc nhận thức (Cluster): Có sự phân hóa cực kỳ rõ rệt (p-value < 0.00001). Những người thuộc Cụm 2 (Nhóm đề cao lợi ích sinh thái) và Cụm 3 (Mainstream) có tỷ lệ sẵn lòng trả giá cao hơn nhiều so với Cụm 1 (Khắt khe/sợ rủi ro).
++ Với Tần suất ghé thăm (Frequency): Có mối liên hệ ý nghĩa về mặt thống kê (p-value = 0.00001). Những người ghé thăm công viên với tần suất cao (mức 4, 5) chiếm phần lớn trong nhóm đồng ý trả giá cao hơn.
++ Với Phương tiện di chuyển (Transportation): Hoàn toàn không có mối liên hệ ý nghĩa (p-value = 0.104 > 0.05). Việc người dân đi bộ hay đi xe máy đến công viên không ảnh hưởng đến việc có chi trả thêm tiền mua nhà hay kinh doanh gần đó hay không.
+- Mô hình Hồi quy Logistic: Các yếu tố quyết định việc sẵn lòng chi trả bất động sản gần UGS:
++ Dịch vụ điều hòa (MEAN RES): Có ý nghĩa thống kê biên ở mức 10% (Odds Ratio = 1.819, p = 0.084). Mặc dù ý nghĩa thống kê bị suy giảm trong mô hình đa biến so với mô hình đơn biến do sự xuất hiện của các biến kiểm soát kinh tế-xã hội, RES vẫn thể hiện xu hướng tác động thuận chiều tích cực. Cứ mỗi mức độ đánh giá cao thêm về khả năng giảm nhiệt, lọc không khí, giảm tiếng ồn của công viên, xác suất cư dân sẵn lòng trả giá cao hơn cho bất động sản tăng lên gấp 1.819 lần.
++ Tác động tiêu cực (MEAN DES): Làm sụt giảm mạnh mẽ khả năng sẵn lòng trả giá cao cho bất động sản (Odds Ratio = 0.548, p = 0.0001). Sự hiện diện của các disservices làm giảm xác suất "xuống tiền" của cư dân chỉ còn 0.548 lần (tương đương mức giảm 45.2% khả năng chi trả).
++ Các biến kiểm soát đặc thù:
++ Nghề nghiệp (Career): Đây là biến số kiểm soát có tác động tích cực và mạnh mẽ nhất đến quyết định tài chính. So với nhóm học sinh/sinh viên (Career 1), các nhóm có thu nhập ổn định và tự chủ tài chính cao hơn đều sẵn lòng chi trả vượt trội: nhóm nhân viên văn phòng (Career 3) tăng 3.324 lần (p = 0.028), nhóm kinh doanh tự do (Career 4) tăng 3.356 lần (p = 0.003), và nhóm cán bộ công chức (Career 6) tăng 3.693 lần (p = 0.007). Phát hiện này chứng minh hành vi chi trả cho bất động sản xanh là một quyết định tài chính lớn, chịu sự chi phối mạnh mẽ của khả năng ngân sách thực tế.
++ Thời gian lưu lại (Time): Biến số này có tác động nghịch chiều rõ rệt ở ngưỡng cao nhất. Nhóm cư dân có thói quen ở lại công viên trên 2 giờ (Time 5) có xác suất sẵn lòng trả giá mua nhà giảm mạnh chỉ còn 0.113 lần (OR = 0.113, p = 0.032). Điều này phản ánh đặc trưng thu nhập khi nhóm lưu lại công viên quá lâu thường là người hưu trí hoặc người lao động tự do có thu nhập thấp, hạn chế về nguồn vốn tích lũy để chi trả cho bất động sản xanh.
++ Các biến số hành vi và vị trí địa lý khác: Nhóm ghé thăm 3-4 lần/tuần (Frequency 4) có xác suất sẵn lòng chi trả tăng gấp 2.858 lần (p = 0.041), và nhóm sống cách công viên từ 1-3 km (Distance 4) tăng gấp 3.101 lần (p = 0.024). Phân cụm nhận thức (Cluster) cho thấy Cụm 3 (Mainstream chú trọng CES) có xác suất chi trả cao gấp 4.905 lần so với Cụm 1 (Khắt khe/sợ rủi ro) (p < 0.001).
+VÌ SAO RES TÁC ĐỘNG ĐẾN DECISION CAO?
+- Khắc phục trực tiếp các áp lực khắc nghiệt của môi trường đô thị: Các đô thị lớn hiện nay đang đối mặt với tình trạng gia tăng nhiệt độ vi khí hậu khốc liệt (hiệu ứng đảo nhiệt đô thị - UHI) và ô nhiễm không khí nghiêm trọng. Hệ sinh thái xanh có khả năng giảm nhiệt độ môi trường lên đến 12°C, lọc bụi mịn và tiếng ồn giao thông. Khi người dân mua một căn nhà, họ đang mua cả chất lượng không gian cư trú xung quanh nó. Sự sẵn lòng chi trả cao là để đổi lấy một bầu không khí mát mẻ, trong lành và tĩnh lặng tại chính nơi ở của mình (Aram et al., 2019; Priya & Senthil, 2021).
+- Nguyên lý "Nhận thức định hình bởi nhu cầu giải quyết khó khăn hiện tại": Nhận thức và đánh giá của công chúng đối với các dịch vụ sinh thái luôn gắn chặt với nhu cầu thực tế của họ. Nắng nóng, khói bụi và tiếng ồn là những khó khăn trực tiếp thường nhật. Do đó, một bất động sản liền kề công viên hoạt động như một cỗ máy điều hòa tự nhiên thông qua các quá trình sinh thái sẽ đáp ứng đúng nhu cầu bức thiết nhất, thúc đẩy ý định chi trả cao hơn của người mua.
+- Bản chất của việc "mua nhà" khác với "đi công viên": Đi công viên (Donation) là hoạt động chủ động vui chơi giải trí (CES). Mua nhà (Decision) là đầu tư tài sản cố định lâu dài. Các giá trị văn hóa hoàn toàn có thể thụ hưởng bằng cách di chuyển từ xa đến công viên. Ngược lại, các dịch vụ điều hòa như không khí trong lành, mát mẻ và chắn tiếng ồn bắt buộc phải có vị trí sát sườn và liên tục tại căn nhà. Do đó, lợi ích của Dịch vụ điều hòa (RES) tự động được định giá và vốn hóa trực tiếp vào giá trị bất động sản lân cận (Hedonic Pricing Theory) (Rosen, 1974).
+Cơ chế cản trở của dịch vụ tiêu cực (DES) đối với quyết định Decision được lý giải thông qua Ngoại ứng tiêu cực vốn hóa (Capitalized Negative Externalities) và Sự đảo ngược trạng thái phục hồi (Restoration Reversal).
++ Lý thuyết định giá Hedonic chỉ ra rằng giá trị bất động sản phản ánh tổng hòa các thuộc tính tích cực lẫn tiêu cực của môi trường xung quanh.
++ Bên cạnh các amenity, các disservices của công viên (như ô nhiễm rác thải - Dirty, tiếng ồn từ đám đông hay các hoạt động tệ nạn - Unsafe) hoạt động như những ngoại ứng tiêu cực đô thị.
++ Những ngoại ứng này làm sụt giảm trực tiếp giá trị sử dụng lâu dài của căn nhà, buộc người mua phải yêu cầu một mức chiết khấu giá (discount) thay vì sẵn lòng trả phí chênh lệch (premium) (Wu & Chen, 2023).
++ Đồng thời, dưới góc độ tâm lý học môi trường, sự hiện diện của các yếu tố mất an ninh và ô nhiễm sinh học (côn trùng, nguy hiểm bão lũ) gây ra tâm lý bất an và stress sinh lý.
++ Điều này làm đảo ngược hoàn toàn cơ chế phục hồi chú ý (ART) và phục hồi căng thẳng (SRT) mà không gian xanh mang lại, khiến cư dân từ chối chi trả mức giá cao cho một môi trường sống kém an toàn và thiếu lành mạnh.
+1.2.3. Khung lý thuyết kinh tế học (có thể liên quan/sử dụng/đề cập qua)
+I. Khung lý thuyết kinh tế học
+1. Hedonic Pricing Theory (Lancaster, 1966; Rosen, 1974)
+- Đây là lý thuyết nền tảng trực tiếp nhất.
++ Lý thuyết này cho rằng giá trị của một tài sản (nhà ở, đất đai) không phải là một con số đơn nhất mà là tổng hợp ẩn của nhiều thuộc tính, bao gồm cả các dịch vụ môi trường không được mua bán trực tiếp trên thị trường.
++ Giá bất động sản do đó phản chiếu mức độ người mua đánh giá các amenity xung quanh, kể cả dịch vụ hệ sinh thái từ UGS.
+- Phân tích Hedonic Pricing được xây dựng trên giả định rằng cư dân đô thị sẵn sàng chi trả cho một số dịch vụ hệ sinh thái do UGS mang lại, bởi giá nhà ở phản ánh ngầm mức độ các tiện ích — bao gồm cả dịch vụ hệ sinh thái — được đánh giá cao ở những vị trí nhất định.
+- Bằng chứng thực nghiệm: Nghiên cứu trước đây về giá bất động sản qua Hedonic Pricing cho thấy rằng các không gian xanh đô thị có thể ảnh hưởng đáng kể đến giá nhà.
++ Phân tích Hedonic Pricing cho phép nhận diện và đo lường sở thích đối với các thuộc tính không thể bán riêng lẻ, trong đó có khía cạnh giải trí của không gian xanh lân cận.
+- Tại Leipzig, Đức, một nghiên cứu Hedonic Pricing phân tích ảnh hưởng của UGS đến giá bất động sản cho thấy quy mô của UGS gần nhất có tác động mạnh hơn khoảng cách đến nó — không gian xanh càng lớn và hình dạng càng đơn giản (gần hình vuông), giá bất động sản lân cận càng cao.
+- Các nghiên cứu trước đó đã chỉ ra rằng WTP đối với không gian xanh biến thiên đáng kể theo đặc điểm của không gian xanh (loại, mục đích sử dụng, quy mô), đặc điểm người dùng (tuổi tác, thu nhập, học vấn) và môi trường cư trú (mật độ dân số, mức độ đô thị hoá).
+2. Phương pháp Định giá Dịch vụ Hệ sinh thái (Environmental Valuation Methods)
+- Các nhà kinh tế môi trường phân biệt hai nhóm phương pháp: Revealed Preference (Sở thích tiết lộ) và Stated Preference (Sở thích phát biểu).
+- Revealed Preference (Sở thích tiết lộ) — quan sát hành vi thực tế (giá nhà, chi phí du hành): Các phương pháp revealed preference như travel cost method và hedonic pricing method cho phép ước tính giá trị tiền tệ của các chức năng giải trí và dịch vụ hệ sinh thái bằng cách quan sát hành vi thực tế trên thị trường.
+- Stated Preference (Sở thích phát biểu) — hỏi trực tiếp mức WTP qua khảo sát: Phương pháp Contingent Valuation (CVM) sử dụng bảng hỏi để cho phép người dùng chỉ ra trực tiếp sở thích của họ đối với một hàng hóa nhất định bằng tiền tệ.
++ CVM đặc biệt phù hợp với các hàng hóa có giá trị phi sử dụng lớn như không gian xanh đô thị.
+- Dẫn chứng định lượng nổi bật:
+- Nghiên cứu tại Vũ Hán (Trung Quốc) ứng dụng CVM cho thấy 90.7% người được hỏi sẵn sàng chi trả để bảo tồn UGS, với mức WTP trung bình 202.4 CNY (~30.6 USD)/người/năm — cao hơn nhiều so với các nghiên cứu trước đó tại Jinan (81.8 CNY/năm).
++ Cư dân đô thị nhận thức cao về dịch vụ hệ sinh thái từ UGS và thấp về các disservices.
+- Khảo sát tại Hong Kong cho thấy hơn 80% người được hỏi sẵn sàng chi trả để bù đắp tổn thất tiềm năng 20% diện tích UGS, với mức thanh toán trung bình HKD 77.43/tháng.
+1.2.4. Khung lý thuyết Tâm lý học Môi trường và Hành vi
+III. Lý thuyết Tâm lý học Môi trường
+- 4. Biophilia Hypothesis (Wilson, 1984, 1986): Giả thuyết Biophilia cho rằng con người có một xu hướng bẩm sinh đối với các môi trường tự nhiên tương tự những môi trường mà chúng ta đã tiến hóa trong đó — dẫn đến cảm giác hấp dẫn tự nhiên với không gian xanh.
++ Các nghiên cứu về biophilic design nhấn mạnh tác động tích cực của nó đến phúc lợi người tiêu dùng, sự hài lòng thẩm mỹ, giá trị cảm nhận, và sẵn sàng chi trả mức phí bảo hiểm (willingness to pay a premium).
+- 5. Attention Restoration Theory — ART (Kaplan & Kaplan, 1989): ART đề xuất rằng không gian xanh giúp bổ sung khả năng chú ý đã cạn kiệt thông qua việc tiếp xúc với các khung cảnh tự nhiên, qua đó thúc đẩy sức khỏe tinh thần và phúc lợi.
++ Đây là một trong những lý thuyết hàng đầu lý giải lợi ích tâm lý của UGS.
++ ART được sử dụng rộng rãi để đánh giá lợi ích tâm lý của không gian xanh, đặc biệt trong việc giảm lo âu, giảm căng thẳng, tăng hạnh phúc và phục hồi chú ý.
++ Lý thuyết nhấn mạnh bốn đặc điểm của môi trường phục hồi: being away (tách biệt khỏi nhịp điệu thường ngày), fascination (cuốn hút không chủ ý), extent (cảm giác về một thế giới rộng lớn hơn), và compatibility (phù hợp với xu hướng của người dùng).
+- 6. Stress Recovery Theory — SRT (Ulrich, 1983, 1991): SRT cho rằng các lợi ích từ thiên nhiên không phải do cơ chế nhận thức mà là do phản ứng cảm xúc và sinh lý.
++ Nghiên cứu đầu tiên của Ulrich chứng minh rằng người được xem video về thiên nhiên phục hồi từ trạng thái căng thẳng nhanh hơn và cảm thấy tốt hơn so với những người xem cảnh đô thị.
+IV. Dẫn chứng thực nghiệm về Regulating Services và WTP
+- Bằng chứng về điều tiết nhiệt độ & chất lượng không khí:
+- Nghiên cứu tại Singapore sử dụng discrete choice experiment cho thấy người dân ưu tiên các dịch vụ điều tiết nhiệt độ và giảm ô nhiễm không khí hơn so với việc tăng đa dạng sinh học trong các công viên lân cận.
++ Đây là bằng chứng trực tiếp rằng cư dân đô thị nhận thức và định giá cao các regulating services từ UGS.
+- Ở quy mô đô thị, có mối tương quan rõ ràng giữa phân bố không gian xanh và việc cung cấp các dịch vụ hệ sinh thái như lọc không khí, giảm tiếng ồn và điều tiết nhiệt độ — các khu vực có nhiều không gian xanh hơn được hưởng lợi từ các dịch vụ hệ sinh thái tốt hơn.
+- Bằng chứng về nhận thức dịch vụ hệ sinh thái và WTP:
+- Nghiên cứu còn cho thấy mức WTP được chấp nhận cao hơn tương quan với nhận thức tốt hơn về dịch vụ hệ sinh thái (ES).
++ Người sử dụng công viên đô thị nhận thức được lợi ích của ES, và gắn liền chúng với cải thiện phúc lợi và chất lượng môi trường đô thị.
+- UGS được đặc trưng bởi chức năng chính là cung cấp dịch vụ hệ sinh thái như lọc không khí và nước, điều tiết nhiệt độ và bảo tồn đa dạng sinh học.
++ Nghiên cứu về WTP cho UGS cho thấy đây là cơ sở thiết yếu để phân tích chi phí-lợi ích trong quy hoạch đô thị bền vững.
+- Bằng chứng về dịch vụ sinh thái toàn diện trong Hedonic Pricing: Các phương pháp tránh chi phí thiệt hại hoặc chi phí thay thế thường được sử dụng để định giá regulating services như giảm thiểu ô nhiễm không khí và điều tiết khí hậu.
++ Meta-analysis về định giá kinh tế dịch vụ hệ sinh thái cho thấy Hedonic Pricing và Stated Preference (đặc biệt là Contingent Valuation) là hai phương pháp được sử dụng thường xuyên nhất trong bối cảnh đô thị — bao gồm đánh giá giá trị giải trí và thẩm mỹ, giảm tiếng ồn, chất lượng không khí, và chất lượng nước.
+TRA
+- Thuyết Hành động Hợp lý (Theory of Reasoned Action, TRA) có thể áp dụng để giải thích một phần cơ chế khiến người dân “sẵn sàng chi trả cao hơn” cho nhà/kinh doanh gần không gian xanh đô thị, nhưng cần lưu ý giới hạn và thường nên mở rộng sang TPB.
+- Vì sao TRA phù hợp:
+- TRA liên kết thái độ và chuẩn chủ quan (subjective norms) tới ý định hành vi, và ý định quyết định hành vi thực tế; nếu người mua có thái độ tích cực về lợi ích của UGS (ví dụ: điều hòa vi khí hậu, giảm ô nhiễm) và cảm thấy xã hội/những người quan trọng ủng hộ việc chọn bất động sản gần UGS, thì TRA dự đoán họ có ý định trả giá cao hơn.
++ Nhiều nghiên cứu về hành vi tiêu dùng xanh đã dùng TRA để giải thích ý định mua các sản phẩm/dịch vụ “xanh”, cho thấy mô hình phù hợp với hành vi có tính tự nguyện và có kiểm soát như quyết định mua nhà.
+1.3. Phương pháp thu thập dữ liệu và Kết quả thực nghiệm
+- Nghiên cứu sử dụng dữ liệu sơ cấp thu được từ cuộc khảo sát thực địa bằng bảng hỏi cấu trúc tại Thành phố Hồ Chí Minh.
++ Để đo lường nhận thức của cư dân về dịch vụ hệ sinh thái đô thị, bảng hỏi được kế thừa từ các thang đo Likert 5 mức độ của nghiên cứu Bangkok (Nguyen & Chidthaisong, 2023).
++ Khảo sát tập trung đánh giá 4 nhân tố chính: Dịch vụ điều tiết (RES), Dịch vụ văn hóa (CES), Tác động tiêu cực (DES), và Nhận thức chung về không gian xanh (UGS).
+- Địa điểm khảo sát được tiến hành trực tiếp tại hai công viên công cộng lớn tại TP.HCM là Công viên Tao Đàn và Công viên Gia Định trong năm 2023 bằng phương pháp chọn mẫu thuận tiện (convenience sampling), thu về N = 307 mẫu hợp lệ.
++ Hệ số Cronbach's alpha đạt độ tin cậy rất cao: RES (0.875), CES (0.932), và DES (0.896).
++ Phân tích phân cụm phân cấp (HCA) chỉ ra 3 cụm cư dân đặc trưng, trong đó Cụm 1 (N = 29) đại diện cho nhóm nhạy cảm với tác động tiêu cực (DES) như mất an toàn (Unsafe) và mất vệ sinh (Dirty) của công viên, trong khi Cụm 3 (N = 143) đại diện cho nhóm cư dân mainstream chú trọng thụ hưởng văn hóa (Cluster 3 có tác động rất mạnh trong cả hai mô hình hồi quy).
+- Bảng 1 dưới đây tổng hợp chi tiết các kết quả ước lượng hồi quy Logistic từ tập dữ liệu khảo sát tại TP.HCM:
+Biến độc lập
+Beta (Donation)
+OR (Donation)
+p-value (Don.)
+Beta (Decision)
+OR (Decision)
+p-value (Dec.)
+Hằng số (Intercept)
+-2.230
+0.108
+0.326
+-1.376
+0.253
+0.361
+Dịch vụ điều tiết (MEAN RES)
+-0.237
+0.789
+0.588
+0.598
+1.819
+0.084+
+Dịch vụ văn hóa (MEAN CES)
+1.444
+4.237
+0.005**
+0.263
+1.301
+0.447
+Tác động tiêu cực (MEAN DES)
+-0.856
+0.425
+0.0002***
+-0.601
+0.548
+0.0001***
+Nhận thức chung (Mean_UGS)
+-0.555
+0.574
+0.163
+0.018
+1.018
+0.949
+Thời gian ở lại: Time (5)
+4.164
+64.345
+0.004**
+-2.177
+0.113
+0.032*
+Khoảng cách: Distance (4)
+-1.124
+0.325
+0.127
+1.132
+3.101
+0.024*
+Nghề nghiệp: Career (3)
+0.735
+2.086
+0.432
+1.201
+3.324
+0.028*
+Nghề nghiệp: Career (4)
+0.350
+1.419
+0.608
+0.986
+3.356
+0.003**
+Nghề nghiệp: Career (6)
+0.897
+2.453
+0.250
+1.235
+3.693
+0.007**
+Số quan sát N = 307; McFadden R² (Donation) = 0.389; McFadden R² (Decision) = 0.252
+Nguồn: Kết quả tính toán từ số liệu khảo sát của tác giả. Ghi chú: + p < 0.10, * p < 0.05, ** p < 0.01, *** p < 0.001. Hệ số góc (B) và Tỷ số số cơ hội (Odds Ratio - OR) được trình bày cho từng biến số. Các biến giả (Dummy variables) của các biến định tính (Thời gian, Khoảng cách, Tần suất, Nghề nghiệp, Cụm nhận thức) lấy danh mục đầu tiên làm nhóm đối chiếu.
+2. Thực trạng chính sách về UGS tại TP.HCM
+TP.HCM có 1 kế hoạch 10 năm (2020-2030) về không gian xanh đô thị, triển khai thành 2 giai đoạn:
+- Kế hoạch phát triển công viên và cây xanh công cộng giai đoạn 2020-2025 của Thành phố Hồ Chí Minh đặt ra mục tiêu tăng thêm tối thiểu 150 ha đất công viên công cộng và 10 ha mảng xanh công cộng, tương đương việc trồng mới và cải tạo 30.000 cây xanh, nhằm nâng tỷ lệ cây xanh đô thị lên mức 0,65 m²/người (Phương Nhi, 2025).
++ Báo cáo tổng kết khi kết thúc kế hoạch cho thấy thành phố đã đạt được những kết quả rất ấn tượng.
++ Cụ thể, thành phố đã phát triển được 237.51 ha công viên công cộng (đạt 158% chỉ tiêu), tăng thêm 54.04 ha mảng xanh công cộng (đạt 540% chỉ tiêu) và thực hiện trồng mới, cải tạo được 42.534 cây xanh (đạt 140% chỉ tiêu) (Thi Nguyễn, 2025).
++ Thành quả này có được phần lớn nhờ vào sự linh hoạt trong việc đẩy mạnh đôn đốc phát triển các công viên, mảng xanh tại các dự án khu dân cư hiện hữu, qua đó góp phần nâng cao mỹ quan và đáp ứng nhu cầu sinh hoạt của người dân (Vân Minh, 2025).
+- Bước sang giai đoạn 2026-2030, Thành phố Hồ Chí Minh tiếp tục đề ra mục tiêu cao hơn là đưa chỉ tiêu đất cây xanh sử dụng công cộng đạt tối thiểu 1 m²/người (Phúc Minh, 2025).
++ Các mục tiêu cụ thể trong giai đoạn này bao gồm phát triển thêm 10 ha mảng xanh công cộng, trồng mới và cải tạo 50.000 cây xanh, đồng thời hướng đến việc tăng thêm 450 ha công viên công cộng (Tạp chí điện tử Môi trường và Cuộc sống, k.n.g.).
++ Để hiện thực hóa, thành phố dự kiến tập trung triển khai đầu tư các công viên quy mô lớn, đa chức năng tại vùng ven, tiêu biểu như công viên Sài Gòn Safari (485 ha), Khu lâm viên sinh thái Thủ Thiêm (128 ha), hay công viên tại Quận 12 (150 ha) (Thanh Hải, 2024).
++ Đặc biệt, thành phố còn định hướng phát triển chuỗi 42 công viên dọc hành lang sông Sài Gòn kết hợp chuyển đổi chức năng sử dụng đất sang thương mại, dịch vụ du lịch nhằm tạo nguồn lực duy tu, vận hành (Huy Vũ, 2024).
++ Về mặt quản lý và thủ tục, thành phố đẩy mạnh cải cách hành chính bằng cách ban hành Quyết định 3206/QĐ-UBND, quy định thời hạn rút gọn (từ 30-45 ngày) cho các thủ tục giao quản lý, xử lý tài sản kết cấu hạ tầng công viên và phê duyệt đề án cho thuê quyền khai thác (Ủy ban nhân dân Thành phố Hồ Chí Minh, 2026).
++ Nhiệm vụ này đòi hỏi sự phối hợp chặt chẽ giữa các cấp chính quyền, đồng thời yêu cầu các chủ đầu tư dự án khu dân cư cũng phải khẩn trương hoàn chỉnh toàn bộ hạ tầng công viên cây xanh đúng theo quy hoạch 1/500 đã cam kết (Cổng Thông tin điện tử Bộ Xây dựng, 2026).
++ Ngày 6/11/2025, UBND TP.HCM ra văn bản chỉ đạo triển khai Nghị định số 258/2025/NĐ-CP ngày 9/10/2025 của Chính phủ về quản lý công viên, cây xanh, mặt nước (Minh Thư, 2025).Sự phối hợp liên ngành được huy động, từ Sở Xây dựng, Sở Nông nghiệp và Phát triển nông thôn, Sở Tài nguyên và Môi trường, Sở Quy hoạch - Kiến trúc, Sở Tài chính… với kỳ vọng triển khai được các phương án toàn diện.
+Tài liệu tham khảo
+Andersson, E., Nykvist, B., Malinga, R., et al. (2015). A social-ecological analysis of ecosystem services in two different farming systems. Ambio, 44(S1), 102-112. https://doi.org/10.1007/s13280-014-0603-y
+Aram, F., Higueras Garcia, E., Solgi, E., & Mansournia, S. (2019). Urban green space cooling effect in cities. Heliyon, 5(4), e01339. https://doi.org/10.1016/j.heliyon.2019.e01339
+Bertram, C., & Rehdanz, K. (2015). Preferences for cultural urban ecosystem services: Comparing attitudes, perception, and use. Ecosystem Services, 12, 187-199. https://doi.org/10.1016/j.ecoser.2014.12.011
+Casado-Arzuaga, I., Madariaga, I., & Onaindia, M. (2013). Perception, demand and user contribution to ecosystem services in the Bilbao Metropolitan Greenbelt. Journal of Environmental Management, 129, 33-43. https://doi.org/10.1016/j.jenvman.2013.05.059
+Cheng, X., Van Damme, S., & Uyttenhove, P. (2021). A review of empirical studies of cultural ecosystem services in urban green infrastructure. Journal of Environmental Management, 293, 112895. https://doi.org/10.1016/j.jenvman.2021.112895
+Cổng Thông tin điện tử Bộ Xây dựng. (2026, ngày 29 tháng 5). TP. Hồ Chí Minh: Cấp thiết lấp "khoảng trống" mảng xanh đô thị. http://moc.gov.vn/vn/1340/94331/tp--ho-chi-minh--cap-thiet-lap-khoang-trong-mang-xanh-do-thi.aspx
+Escobedo, F. J., Kroeger, T., & Wagner, J. E. (2011). Managing the urban forest for multiple ecosystem services and disservices. Environmental Pollution, 159(8-9), 2078-2087. https://doi.org/10.1016/j.envpol.2011.01.002
+Haaland, C., & van den Bosch, C. K. (2015). Challenges and strategies for urban green-space planning in cities undergoing densification: A review. Urban Forestry & Urban Greening, 14(4), 760-771. https://doi.org/10.1016/j.ufug.2015.07.009
+Huy Vũ. (2024, ngày 21 tháng 10). TP.HCM muốn phát triển 42 công viên dọc sông Sài Gòn. Báo Pháp Luật TP. Hồ Chí Minh. https://plo.vn/tphcm-muon-phat-trien-42-cong-vien-doc-song-sai-gon-post815943.html
+Kaplan, R., & Kaplan, S. (1989). The experience of nature: A psychological perspective. Cambridge University Press.
+Kirkpatrick, J. B., Davison, A., & Daniels, G. D. (2012). Resident attitudes towards trees in the suburban forest: Population subgroups, species, and disservices. Landscape and Urban Planning, 105(4), 447-459. https://doi.org/10.1016/j.landurbplan.2012.01.010
+Ko, H., & Son, Y. (2018). Perceptions of cultural ecosystem services in urban green spaces: A case study in Gwacheon, Republic of Korea. Ecological Indicators, 91, 299-306. https://doi.org/10.1016/j.ecolind.2018.04.006
+Lancaster, K. J. (1966). A new approach to consumer theory. Journal of Political Economy, 74(2), 132-157.
+Lyytimaki, J., & Sipila, M. (2009). Hop on to the green car: Ecosystem disservices in urban green areas. Urban Forestry & Urban Greening, 8(4), 223-232. https://doi.org/10.1016/j.ufug.2009.06.001
+Millennium Ecosystem Assessment (MEA). (2005). Ecosystems and human well-being: Health Synthesis. Island Press.
+Minh Thư. (2025, ngày 06 tháng 11). Triển khai Nghị định của Chính phủ về quản lý công viên, cây xanh, mặt nước. Cổng thông tin điện tử Thành phố Hồ Chí Minh. https://www.hochiminhcity.gov.vn/vi/web/hcm/w/trien-khai-nghi-inh-cua-chinh-phu-ve-quan-ly-cong-vien-cay-xanh-mat-nuoc
+Nguyen, C. T., & Chidthaisong, A. (2023). Ecosystem services provided by urban green spaces in Bangkok Metropolis: Public awareness and planning implications. Urban Ecosystems, 26(1), 151-167. https://doi.org/10.1007/s11252-023-01482-1
+Phúc Minh. (2025, ngày 09 tháng 2). TP. Hồ Chí Minh: Năm 2030 diện tích đất cây xanh đạt tối thiểu 1m²/người. Tạp chí điện tử Môi trường và Cuộc sống. https://moitruong.net.vn/tp-ho-chi-minh-nam-2030-dien-tich-dat-cay-xanh-dat-toi-thieu-1m-nguoi-80786.html
+Phương Nhi. (2025, ngày 08 tháng 2). TP.HCM muốn xây 75 công viên, mới 8 dự án được bổ sung vốn. Tuổi Trẻ Online. https://tuoitre.vn/tp-hcm-muon-xay-75-cong-vien-moi-8-du-an-duoc-bo-tri-von-20250208154143436.htm
+Priya, U. K., & Senthil, R. (2021). A review of the impact of the green landscape interventions on the urban microclimate of tropical areas. Building and Environment, 205, 108190. https://doi.org/10.1016/j.buildenv.2021.108190
+Rall, E., Bieling, C., Zytynska, S., & Haase, D. (2017). Exploring city-wide patterns of cultural ecosystem service perceptions and use. Ecological Indicators, 77, 80-95. https://doi.org/10.1016/j.ecolind.2017.02.001
+Riechers, M., Barkmann, J., & Tscharntke, T. (2016). Perceptions of cultural ecosystem services from urban green. Ecosystem Services, 17, 33-39. https://doi.org/10.1016/j.ecoser.2015.11.007
+Riechers, M., Barkmann, J., & Tscharntke, T. (2018). Diverging perceptions of cultural ecosystem services and disservices in urban areas. Ecosystem Services, 31, 33-40. https://doi.org/10.1016/j.ecoser.2017.07.013
+Rosen, S. (1974). Hedonic prices and implicit markets: product differentiation in pure competition. Journal of Political Economy, 82(1), 34-55.
+Shackleton, C. M., Ruwanza, S., Sinasson Sanni, G. K., et al. (2016). Unpacking ecosystem disservices: A framework for systematic indicators for planning and management. Ecosystem Services, 21, 76-88. https://doi.org/10.1016/j.ecoser.2016.07.009
+Tạp chí điện tử Môi trường và Cuộc sống. (k.n.g.). Cây xanh công cộng. Truy cập ngày 30 tháng 6 năm 2026, từ https://moitruong.net.vn/cay-xanh-cong-cong-ptag.html
+Thanh Hải. (2024, ngày 16 tháng 9). TP. Hồ Chí Minh: Tạo đột phá trong lĩnh vực công viên cây xanh để cải thiện môi trường. Tạp chí điện tử Công nghiệp môi trường. https://congnghiepmoitruong.vn/tp-ho-chi-minh-tao-dot-pha-trong-linh-vuc-cong-vien-cay-xanh-de-cai-thien-moi-truong-13794.html
+Thi Nguyễn. (2025, ngày 11 tháng 2). TP.HCM đạt 540% so với chỉ tiêu trong phát triển mảng xanh công cộng. VnEconomy. https://vneconomy.vn/tp-hcm-dat-540-so-voi-chi-tieu-trong-phat-trien-mang-xanh-cong-cong.htm
+Thúy Nga. (2024, ngày 21 tháng 4). TP Hồ Chí Minh triển khai nhiều giải pháp tăng mảng xanh đô thị. VTV.vn. https://vtv.vn/xa-hoi/tp-ho-chi-minh-trien-khai-nhieu-giai-phap-tang-mang-xanh-do-thi-20240421091400.htm
+Ugolini, F., Massetti, L., Calaza-Martínez, P., et al. (2022). Understanding the benefits of public urban green space: How do perceptions vary between professionals and users? Landscape and Urban Planning, 228, 104575. https://doi.org/10.1016/j.landurbplan.2022.104575
+Ulrich, R. S. (1983). Aesthetic and affective response to natural environment. In Behavior and the natural environment (pp. 85-125). Springer.
+Ulrich, R. S., Simons, R. F., Losito, B. D., Fiorito, E., Miles, M. A., & Zelson, M. (1991). Stress recovery during exposure to natural hazards and environments. Journal of Environmental Psychology, 11(3), 201-230.
+Ủy ban nhân dân Thành phố Hồ Chí Minh. (2026, ngày 30 tháng 5). Quyết định 3206/QĐ-UBND công bố danh mục thủ tục hành chính nội bộ mới lĩnh vực Hạ tầng kỹ thuật và Đường bộ. LuatVietnam. https://luatvietnam.vn/xay-dung/quyet-dinh-3206-qd-ubnd-tp-hcm-2026-cong-bo-danh-muc-thu-tuc-hanh-chinh-noi-bo-moi-linh-vuc-ha-tang-ky-thuat-va-duong-bo-436179-d2.html
+Vaz, A. S., Kueffer, C., Kull, C. A., et al. (2017). The integration of ecosystem disservices in urban planning: A review. Landscape and Urban Planning, 167, 317-327. https://doi.org/10.1016/j.landurbplan.2017.07.013
+Vân Minh. (2025, ngày 08 tháng 2). TPHCM phát triển công viên công cộng được 237,51 ha. Trang tin Điện tử Đảng bộ TPHCM. https://www.hcmcpv.org.vn/tin-tuc/tphcm-phat-trien-cong-vien-cong-cong-duoc-237-51-ha-1491933912
+Von Döhren, P., & Haase, D. (2015). Ecosystem disservices research: A review of the state of the art with a focus on cities. Ecological Indicators, 52, 490-497. https://doi.org/10.1016/j.ecolind.2014.12.027
+Wilson, E. O. (1984). Biophilia. Harvard University Press.
+Wu, L., & Chen, C. (2023). Does pattern matter? Exploring the pathways and effects of urban green space on promoting life satisfaction through reducing air pollution. Urban Forestry & Urban Greening, 82, 127890. https://doi.org/10.1016/j.ufug.2023.127890
