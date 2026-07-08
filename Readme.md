@@ -39,10 +39,11 @@ Nghiên cứu đo lường dựa trên các nhóm biến chính:
 3.  **Nhóm "Thờ ơ" (Cụm 3):** Nhận thức thấp cả về lợi ích lẫn tác hại, tần suất đi công viên rất thấp.
 
 ### D. Động lực tài chính đằng sau quyết định quyên góp (Donation)
-*   **Sự mất cân bằng dữ liệu lớn:** Có tới 271/307 người khảo sát sẵn sàng quyên góp (88%). Hiện tượng này gây ra lỗi "Phân tách hoàn hảo" (Perfect Separation) trong hồi quy chuẩn.
-*   **Động lực từ Dịch vụ Văn hóa (MEAN CES):** Thụ hưởng văn hóa là động lực tuyệt đối thúc đẩy người dân đồng ý quyên góp. Khi người dân hài lòng với các giá trị văn hóa và tinh thần, họ có xu hướng đóng góp tài chính cao vượt trội để bảo tồn không gian xanh.
-*   **Thời gian lưu trú (Time):** Dành càng nhiều thời gian tại công viên (đặc biệt >15 phút) thì xác suất quyên góp càng tăng mạnh (Time 3 tăng 64.9 lần, Time 5 tăng 64.3 lần).
-*   **Lực cản từ DES:** Sự bức xúc về quản lý kém (Dirty, Unsafe) trực tiếp làm sụt giảm khả năng quyên góp (Odds Ratio = 0.425, giảm lòng tin thể chế). Dịch vụ điều hòa (MEAN RES) hoàn toàn không có tác động thúc đẩy quyên góp.
+*   **Xử lý mất cân bằng dữ liệu bằng Firth's Penalized Likelihood:** Có tới 271/307 người khảo sát sẵn sàng quyên góp (88%), gây ra lỗi "Phân tách hoàn hảo" (Perfect Separation) trong hồi quy MLE chuẩn. Mô hình đã được tối ưu hóa lại bằng thuật toán Firth Logistic để triệt tiêu chệch và đưa ra các tỷ số chênh (Odds Ratio) chuẩn mực, tin cậy.
+*   **Lực cản mạnh mẽ từ DES:** Sự bức xúc về quản lý kém (Dirty, Unsafe) là tác nhân lớn nhất làm sụt giảm khả năng quyên góp (Odds Ratio = 0.412, p = 0.0005). Khách tham quan sẽ thẳng thừng từ chối chi tiền nếu UGS tiếp tục nhếch nhác và mất an toàn.
+*   **Động lực từ Dịch vụ Văn hóa (MEAN CES):** Thụ hưởng văn hóa có xu hướng tác động thuận chiều tới quyết định quyên góp (Odds Ratio = 2.74, p = 0.11), mặc dù nằm ở mức ý nghĩa biên nhưng đóng vai trò là động lực thụ hưởng chủ đạo so với dịch vụ sinh thái đơn thuần.
+*   **Khoảng cách và Nghề nghiệp:** Người sống càng xa công viên thì xác suất quyên góp càng giảm (Odds Ratio = 0.569, p = 0.0304). Nhóm Kinh doanh tự do/Buôn bán có khả năng quyên góp cao gấp 10.6 lần (p = 0.0634) so với sinh viên học sinh.
+*   **Dịch vụ điều hòa (MEAN RES):** Hoàn toàn không có tác động thúc đẩy quyên góp (p = 0.5798), minh chứng cho việc người dân coi chức năng làm mát/lọc không khí là đặc tính nghiễm nhiên của tự nhiên chứ không phải là lý do trực tiếp để xuất tiền ủng hộ.
 
 ### E. Động lực tài chính đằng sau quyết định mua nhà (Decision)
 *   **Mô hình hồi quy tối ưu đạt độ hội tụ rất tốt (Pseudo R-squared: 0.695):**
